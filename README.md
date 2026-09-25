@@ -52,7 +52,7 @@ Online learning offers immense flexibility, yet retaining enrolled students rema
 ## 📂 Repository Structure
 
 ```text
-├── eyouth-30811071801341-analysis-notebook.ipynb   # Main Jupyter Notebook with data cleaning & EDA
-├── EYOUTH-30811071801341_data_story.pdf           # Comprehensive Data Story PDF Report
-├── EYOUTH-30811071801341_dashboard.png            # Interactive Dashboard Visualization
+├── student-engagement-analysis-notebook.ipynb   # Main Jupyter Notebook with data cleaning & EDA
+├── student_engagement_data_story.pdf           # Comprehensive Data Story PDF Report
+├── student_engagement_dashboard.png            # Interactive Dashboard Visualization
 └── README.md                                      # Documentation
